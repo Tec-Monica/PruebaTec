@@ -1,0 +1,5 @@
+C:\Users\je\Documents\PruebaTecnica\PruebaTec\PruebaTec.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec\PruebaTec.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\je\Documents\PruebaTecnica\PruebaTec\PruebaTec.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec\PruebaTec.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\je\Documents\PruebaTecnica\PruebaTec\PruebaTec.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
